@@ -1,5 +1,5 @@
 cn: 
  springcloud: 
           book:
-            test: I am the git configuration file from spring-cloud-config.yml test
-            config: I am the git configuration file from spring-cloud-config.ym
+            test: I am the git configuration file from spring-cloud-config.yml test  123
+            config: I am the git configuration file from spring-cloud-config.ym  321
